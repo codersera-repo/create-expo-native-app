@@ -1,0 +1,31 @@
+{
+  "name": "expo-native-starter-kit",
+  "version": "1.0.0",
+  "description": "A starter kit which enables you to run expo and react-native ejected app together.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "expo-native-starter-kit": "./index.js"
+  },
+  "keywords": [
+    "expo-starter-kit",
+    "react-native-starter-kit",
+    "expo",
+    "react-native",
+    "starter-kit",
+    "expo-react-native"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codersera-repo/expo-native-starter-kit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "react-scripts": "^3.0.1"
+  }
+}
