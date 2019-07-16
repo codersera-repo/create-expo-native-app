@@ -1,5 +1,5 @@
 {
-  "name": "expo-native-starter-kit",
+  "name": "create-expo-native-app",
   "version": "1.0.0",
   "description": "A starter kit which enables you to run expo and react-native ejected app together.",
   "main": "index.js",
@@ -10,6 +10,8 @@
     "expo-native-starter-kit": "./index.js"
   },
   "keywords": [
+    "create-expo-native-app",
+    "expo-native-app",
     "expo-starter-kit",
     "react-native-starter-kit",
     "expo",
@@ -26,6 +28,7 @@
   "dependencies": {
     "child_process": "^1.0.2",
     "fs": "0.0.1-security",
+    "prompt": "^1.0.0",
     "react-scripts": "^3.0.1"
   }
 }
